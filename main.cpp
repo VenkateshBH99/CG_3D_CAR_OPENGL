@@ -111,9 +111,6 @@ void display1(void)
 
     display_string(500,450,"Done by:",2);
     display_string(500,420,"1.Venkatesh B H (17IT248)",2);
-    display_string(500,390,"2.Rashad Ahmed (17IT132)",2);
-    display_string(500,360,"3.Niteesh Kumar (17IT228)",2);
-    display_string(500,330,"4.Vishal Nirney(17IT250)",2);
     glutPostRedisplay();
     glutSwapBuffers();
 
