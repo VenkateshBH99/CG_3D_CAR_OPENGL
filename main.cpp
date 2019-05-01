@@ -110,7 +110,7 @@ void display1(void)
     display_string(250,150+30,"PRESS SPACE BAR TO ENTER",2);
 
     display_string(500,450,"Done by:",2);
-    display_string(500,420,"1.Venkatesh B H (17IT248)",2);
+    display_string(500,420,"Venkatesh B H (17IT248)",2);
     glutPostRedisplay();
     glutSwapBuffers();
 
